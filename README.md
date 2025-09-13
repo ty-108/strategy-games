@@ -3,7 +3,7 @@
 ## How to play
 The code for these games was written for some strategy games we played at MSJ Math Club lectures, based on a minievent from the Stanford Math Tournament. Feel free to use them for your own event!
 
-To play, make a copy of these slides to display as the instructions: https://tinyurl.com/StrategySlides
+To play, make a copy of these slides and update them as needed to display for everyone: https://tinyurl.com/StrategySlides
 
 You will need some way to take in responses from players. I used Google Forms, which worked great, but you can use whatever you'd like (e.g. Menti) and update the form link on the 2nd slide. If you're using Google Forms, you can open up the responses on a Google spreadsheet and copy and paste responses from the spreadsheet to wherever you're running the code.
 
